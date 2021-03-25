@@ -1,8 +1,6 @@
 package com.afdroid.timetracker.Utils;
 
-/**
- * Created by afrin on 31/10/17.
- */
+
 
 import android.content.Context;
 import android.util.AttributeSet;

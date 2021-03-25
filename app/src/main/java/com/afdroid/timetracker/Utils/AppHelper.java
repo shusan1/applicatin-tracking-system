@@ -3,9 +3,7 @@ package com.afdroid.timetracker.Utils;
 import android.app.usage.UsageStatsManager;
 import android.content.Context;
 
-/**
- * Created by afrin on 23/10/17.
- */
+
 
 public class AppHelper {
 

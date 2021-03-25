@@ -179,6 +179,7 @@ public class MainActivity extends AppCompatActivity {
         switch (requestCode) {
             case MY_PERMISSIONS_REQUEST_PACKAGE_USAGE_STATS:
                 fillStats();
+
                 break;
         }
     }

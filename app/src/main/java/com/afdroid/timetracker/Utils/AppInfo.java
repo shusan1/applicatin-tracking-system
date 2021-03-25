@@ -2,9 +2,7 @@ package com.afdroid.timetracker.Utils;
 
 import android.graphics.drawable.Drawable;
 
-/**
- * Created by afrin on 25/10/17.
- */
+
 
 public class AppInfo {
     private String appName;
